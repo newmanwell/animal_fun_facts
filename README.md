@@ -1,1 +1,2 @@
 This was my first codecademy project with React/JSX. I'm pushing this for future reference.
+* More about this project: [Animal Fun Facts](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-front-end-development/tracks/fecj-22-react-part-i/modules/wdcp-22-jsx-8f99184f-c8e2-4beb-a4ec-834368b988f9/projects/js-react-animal-fun-facts)
